@@ -29,3 +29,7 @@ def add_item():
             break
         else:
             print("Ungültige Auswahl. Bitte wähle 1, 2 oder 3.")
+
+          
+          if __name__ == "__main__":
+    main()
